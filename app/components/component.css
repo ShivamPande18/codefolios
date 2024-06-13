@@ -1,0 +1,8 @@
+.genBtn{
+    background-color: white;
+    color: black;
+    align-self: center;
+    padding-inline:20px;
+    padding-block: 5px;
+    border-radius: 5px;
+  }
